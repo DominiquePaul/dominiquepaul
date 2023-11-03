@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [http://thisiscrispin.substack.com](http://thisiscrispin.substack.com)
 
-- 💬 Ask me about **Sierra Leone, Tabular Foundation Models**
+- 💬 Ask me about **Sierra Leone, Tabular Foundation Models, Computational Genomics**
 
 - 📫 How to reach me **dominique.c.a.paul@gmail.com**
 
