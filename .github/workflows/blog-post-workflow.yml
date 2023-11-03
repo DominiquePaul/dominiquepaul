@@ -8,7 +8,7 @@ jobs:
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v3
-            - uses: gautamkrishnar/blog-post-workflow@master@v1
+            - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
                 feed_list: "http://thisiscrispin.substack.com/feed"
