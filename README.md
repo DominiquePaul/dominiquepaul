@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The best African city to start a company](https://thisiscrispin.substack.com/p/the-best-african-city-to-start-a)
 - [Shelving data annotation in Sierra Leone and launching Palta Labs](https://thisiscrispin.substack.com/p/shelving-data-annotation-in-sierra)
 - [Webflow farms in Sierra Leone](https://thisiscrispin.substack.com/p/webflow-farms-in-sierra-leone)
 - [No shortcuts to the Maslow pyramid](https://thisiscrispin.substack.com/p/no-shortcuts-to-the-maslow-pyramid)
-- [Suckers for security](https://thisiscrispin.substack.com/p/suckers-for-security)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
