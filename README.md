@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my own ML agency, Palta Labs](www.palta-labs.com) until I have enough money saved up to work on a product. I'm expecting this to be the end of March 2025.
 
-- 📝 I regularly write articles on [http://thisiscrispin.substack.com](http://thisiscrispin.substack.com)
+- 📝 I regularly write articles on [thisiscrispin.substack.com](http://thisiscrispin.substack.com)
 
 - 💬 Ask me about **Sierra Leone, Tabular Foundation Models, Computational Genomics**
 
