@@ -26,6 +26,5 @@
 <p align="left">
 <a href="https://twitter.com/dominiquecapaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dominiquecapaul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dominique-paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dominique-paul" height="30" width="40" /></a>
-<a href="/http://thisiscrispin.substack.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://thisiscrispin.substack.com/feed" height="30" width="40" /></a>
 </p>
 
