@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dominique</h1> 
-<h3 align="center">I'm an ML researcher and engineer. I sometimes share my work on <a href="https://www.thisiscrispin.substack.com">Substack</a></h3>  
+<h3 align="center">I'm an ML researcher and engineer.</h3>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dominiquepaul&label=Profile%20views&color=0e75b6&style=flat" alt="dominiquepaul" /> </p>
 
