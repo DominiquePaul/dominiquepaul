@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Sierra Leone, Tabular Foundation Models, Computational Genomics**
 
-- 📫 Questions or inquiries about any of my repos? Reach out via **dominique.c.a.paul@gmail.com**
+- 📫 Questions or inquiries about any of my repos? Reach out via **dominique.c.a.paul@gmail.com** 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
