@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Robots and Runway](https://thisiscrispin.substack.com/p/robots-and-runway)
 - [A review after one year of freelancing](https://thisiscrispin.substack.com/p/a-review-after-one-year-of-freelancing)
 - [Moving from freelancing to ideating in July](https://thisiscrispin.substack.com/p/moving-from-freelancing-to-ideating)
 - [Academic Realities: Lessons Learnt at NeurIPS](https://thisiscrispin.substack.com/p/academic-realities-lessons-learnt)
