@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dominique</h1>
 <h3 align="center">ML engineer turned robotics founder — teaching robots to learn manufacturing tasks from human demonstration.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dominiquepaul&label=Profile%20views&color=0e75b6&style=flat" alt="dominiquepaul" /> <a href="https://x.com/dominiquecapaul" target="blank"><img src="https://img.shields.io/twitter/follow/dominiquecapaul?logo=x&style=for-the-badge&label=Follow" alt="dominiquecapaul" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dominiquepaul&label=Profile%20views&color=0e75b6&style=flat" alt="dominiquepaul" /> <a href="https://x.com/dominiquecapaul" target="blank"><img src="https://img.shields.io/twitter/follow/dominiquecapaul?logo=x&style=for-the-badge&label=Follow" alt="dominiquecapaul" /></a> <a href="https://thisiscrispin.substack.com" target="blank"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a> </p>
 
-- 🤖 I'm building [Dream Machines](https://dream-machines.eu/) — a robotics company that helps SMEs automate variable, repetitive manufacturing work by configuring robots through demonstration.
+- 🤖 I'm building [Dream Machines](https://dream-machines.eu/) — a robotics company that helps SMEs automate variable, repetitive manufacturing work by configuring robots through demonstration. I write about the journey on [Substack](https://thisiscrispin.substack.com) — here's the [latest update](https://thisiscrispin.substack.com/p/the-first-monthly-update).
 
 - 🧪 Previously, I ran [Palta Labs](https://www.palta-labs.com), an ML consultancy to finance building my own company (until April 2025). I wrote about my experiences freelancing in [year one](https://thisiscrispin.substack.com/p/a-review-after-one-year-of-freelancing) and [year two](https://thisiscrispin.substack.com/p/a-review-of-my-second-and-final-year).
-
-- 📝 I write about my founding journey on [thisiscrispin.substack.com](https://thisiscrispin.substack.com)
 
 - 💬 Ask me about **Robotics, Reinforcement Learning, ML Engineering, Sierra Leone**
 
