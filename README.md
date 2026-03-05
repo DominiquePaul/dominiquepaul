@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominique</h1>
 <h3 align="center">ML engineer turned robotics founder — teaching robots to learn manufacturing tasks from human demonstration.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dominiquepaul&label=Profile%20views&color=0e75b6&style=flat" alt="dominiquepaul" /> <a href="https://x.com/dominiquecapaul" target="blank"><img src="https://img.shields.io/twitter/follow/dominiquecapaul?logo=x&style=for-the-badge&label=Follow" alt="dominiquecapaul" /></a> <a href="https://thisiscrispin.substack.com" target="blank"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dominiquepaul&label=Profile%20views&color=0e75b6&style=flat" alt="dominiquepaul" /> <a href="https://x.com/dominiquecapaul" target="blank"><img src="https://img.shields.io/twitter/follow/dominiquecapaul?logo=x&style=for-the-badge&label=Follow" alt="dominiquecapaul" /></a> <a href="https://thisiscrispin.substack.com" target="blank"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a> <a href="https://linkedin.com/in/dominique-paul" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> </p>
 
 - 🤖 I'm building [Dream Machines](https://dream-machines.eu/) — a robotics company that helps SMEs automate variable, repetitive manufacturing work by configuring robots through demonstration. I write about the journey on [Substack](https://thisiscrispin.substack.com) — here's the [latest update](https://thisiscrispin.substack.com/p/the-first-monthly-update).
 
@@ -21,8 +21,3 @@
 - [A review after one year of freelancing](https://thisiscrispin.substack.com/p/a-review-after-one-year-of-freelancing)
 - [Moving from freelancing to ideating in July](https://thisiscrispin.substack.com/p/moving-from-freelancing-to-ideating)
 <!-- BLOG-POST-LIST:END -->
-
-<p align="left">
-<a href="https://x.com/dominiquecapaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="dominiquecapaul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dominique-paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dominique-paul" height="30" width="40" /></a>
-</p>
